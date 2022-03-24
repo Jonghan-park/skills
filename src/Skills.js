@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import skills from './data';
-import { FaChevronLeft, FaChevronRight, FaQuoteRight } from 'react-icons/fa';
+import { FaThumbsUp, FaArrowLeft, FaArrowRight } from 'react-icons/fa';
 
 
-const Reviews = () => {
+const Skills = () => {
     const [index, setIndex] = useState(0);
     const {name, image, text} = skills[index];
 
@@ -32,10 +32,12 @@ const Reviews = () => {
     };
 
     return (
-        <article className='skill'>
-
+        <article className='skills'>
+            <div className="img-container">
+                <img src={image} alt={name} className="skill-img" />
+            </div>
         </article>
     );
 };
 
-export default Reviews;
+export default Skills;
