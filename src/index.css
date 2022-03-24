@@ -159,7 +159,7 @@ main {
   width: 80vw;
   max-width: var(--fixed-width);
 }
-.review {
+.skills {
   background: var(--clr-white);
   padding: 1.5rem 2rem;
   border-radius: var(--radius);
@@ -167,7 +167,7 @@ main {
   transition: var(--transition);
   text-align: center;
 }
-.review:hover {
+.skills:hover {
   box-shadow: var(--dark-shadow);
 }
 .img-container {
@@ -178,7 +178,7 @@ main {
   margin: 0 auto;
   margin-bottom: 1.5rem;
 }
-.person-img {
+.skill-img {
   width: 100%;
   display: block;
   height: 100%;
