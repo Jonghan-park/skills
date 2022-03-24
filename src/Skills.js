@@ -35,7 +35,7 @@ const Skills = () => {
       <div className="img-container">
         <img src={image} alt={name} className="skill-img" />
         <span className="quote-icon">
-          <FaThumbsUp />
+          <FaThumbsUp className="thumbsUp" />
         </span>
       </div>
       <h4 className="author">{name}</h4>

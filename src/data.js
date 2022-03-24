@@ -3,7 +3,7 @@ const skills = [
       id: 1,
       name: 'HTML',
       image:
-        'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F61%2FHTML5_logo_and_wordmark.svg%2F1200px-HTML5_logo_and_wordmark.svg.png&f=1&nofb=1',
+        'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.qEBJYta8gjiEej4ag1-eCgHaD4%26pid%3DApi&f=1',
       text:
         "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser.",
     },
