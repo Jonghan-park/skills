@@ -10,7 +10,7 @@ The project of purpose is to get used to React.js
 Used : React.js, CSS  
 IDE : Visual Studio Code
 
-# Sample screenshots
+# Sample screenshots 
 ![image](https://user-images.githubusercontent.com/90344204/159829337-9d8e65e5-93ab-4a41-a510-8a5209cc2d8a.png)
 
 # Click next arrow button
